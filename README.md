@@ -8,7 +8,7 @@
 - Wenn die Antwort korrekt ist, wird sie grün, andernfalls rot
 - Zeitlimit pro Frage
 - Am Ende des Bewertungsbildschirms können Sie Ihre Punktzahl überprüfen
-- 
+
 ## Setup & Installation
 - Einfach das Projekt von GitHub kopieren und mit Get from Version Control öffnen
 
